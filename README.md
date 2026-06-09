@@ -29,8 +29,6 @@
   <a href="https://your-portfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
-  <!-- OPTIONAL: Hire Me Badge -->
-  <img src="https://img.shields.io/badge/Open%20to%20Work-4CAF50?style=for-the-badge&logo= handshake&logoColor=white" alt="Open to Work"/>
 </p>
 
 ---
@@ -69,7 +67,7 @@ Full Stack Developer specializing in **AI integration** and **intelligent applic
 #### **Frontend & Backend**
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-160440?style=for-the-badge&logo=react-query" alt="TanStack"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
@@ -91,19 +89,20 @@ Full Stack Developer specializing in **AI integration** and **intelligent applic
   Replace ORG_NAME with the organization username, REPO_NAME with repository name
 -->
 
-#### 🔹 [Organization Name 1]
-*Replace with actual org name and description*
+#### 🔹 gitcelula02
+*A riwi organization, created for a team up developing project inside the AI Automatization advanced route, using the Scrum Methodology*
 
-<a href="https://github.com/ORG_NAME/REPO_NAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ORG_NAME&repo=REPO_NAME&theme=tokyonight&hide_border=true&show_icons=true" />
+<a href="https://github.com/gitcelula02/ScrumHub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gitcelula02&repo=ScrumHub&theme=tokyonight&hide_border=true&show_icons=true" />
 </a>
 
-#### 🔹 [Organization Name 2]
-<a href="https://github.com/ORG_NAME/REPO_NAME_2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ORG_NAME&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&show_icons=true" />
+#### 🔹 AcceGas
+*Gas company on Itagüí, Colombia, specialized on technical services for any gas appliance.*
+<a href="https://github.com/AcceGas/AcceGas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AcceGas&repo=AcceGas&theme=tokyonight&hide_border=true&show_icons=true" />
 </a>
 
-<!-- Alternative: Manual Showcase for Organization Repos -->
+<!-- Alternative: Manual Showcase for Organization Repos 
 <details>
 <summary>📋 <strong>More Organization Contributions</strong></summary>
 <br>
@@ -117,7 +116,7 @@ Full Stack Developer specializing in **AI integration** and **intelligent applic
 </details>
 
 ---
-
+--->
 ### 📊 GitHub Analytics
 
 <!-- 
